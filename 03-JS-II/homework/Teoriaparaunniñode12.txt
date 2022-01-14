@@ -1,0 +1,10 @@
+For: Es un bucle para evitar escribir el mismo codigo para hacer tareas repetitivas como escribir del 1 al 100. Para que funcione
+se debe declarar una variable sobre la que gira el bucle, una condicion para que se detenga y una regla sobre como aumenta nuestra 
+variable.
+
+&&: Es el simbolo AND y se lo utiliza para evaluar las condiciones y solo se cumple si ambas condiciones son verdaderas o falsas.
+
+||: Es el simbolo de OR y se usa para cuando no necesitamos que ambas condiciones sean iguales. Con que una condicion sea verdadera
+habilita la ejecucion del codigo.
+
+!: Es el simbolo de NOT y se lo usa para las negaciones.
