@@ -1,0 +1,19 @@
+>Variables: Es una cajita donde guardo un valor para una palabra y 
+cada vez que la uso esa palabra el sistema automaticamente sabe que 
+valor tiene.
+
+>Stings: Es un texto que se puede asignar a una variable. 
+
+>Funciones: Es una operacion que podemos hacer con variables dentro del 
+sistema y la funcion determina que es lo que sucede con las variables. 
+ 
+  >Argumentos: Es el valor real con el que trabaja la funcion. 
+  >Return: Es la forma de decirle a la funcion que nos muestre el 
+  resultado.
+
+>Declaraciones: Es una orden que se le da al sistema, como el comando If 
+que se usa como condicionante de lo que tiene que suceder para que se 
+ejecute una funcion.
+
+>Valores Booleanos: Se usa para determinar valores de si o no,
+verdadero/Falso, etc
